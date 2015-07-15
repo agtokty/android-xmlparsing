@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Hacettepe Yemekhane</string>
+    
+    <string name="update">Güncelle</string>
+    <string name="share">Paylaş</string>
+    <string name="about">Hakkında</string>
+    <string name="okey">Tamam</string>
+	<string name="aksam">Akşam Yemeği</string>
+	<string name="ogle">Öğle Yemeği</string>
+	<string name="lutfen">YEMEK LİSTESİ GÜNCEL DEĞİL </string>
+	<string name="title">Hacettepe Üniversitesi Yemekhane Uygulaması</string>
+	<string name="afiyet">AFİYET OLSUN</string>
+	
+
+	
+	<string name="gununyemegi">Günün Yemeği</string>
+	
+	<string name="blist">Aylık Yemek Listesi</string>
+	
+	<string name="bbugun">Günün Yemeği</string>
+	
+	<string name="appabout">Hacetepe Üniversitesi Yemakhane uygulaması sayesinde
+	        		 yemekhanede sunulan yemeklerin listesine kolayca ulaşırsınız. 
+	        		 Uygulama ile ilgili görüş ve önerileriniz için email adresinden ulaşabilirsiniz.\n
+	        		 agtokty@gmail.com</string>
+	<!-- Uyarılar -->
+	<string name="nonet">İnternet Bağlantısı Yok</string>
+	<string name="updating">Yemek Listesi Güncelleniyor \n Lütfen Bekleyiniz.</string>
+	<string name="updatealert">Yemek Listesi Güncelleyiniz.</string>
+	
+	
+</resources>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Hacettepe Yemekhane</string>
+    
+    <string name="update">Güncelle</string>
+    <string name="share">Paylaş</string>
+    <string name="about">Hakkında</string>
+    <string name="okey">Tamam</string>
+	<string name="aksam">Akşam Yemeği</string>
+	<string name="ogle">Öğle Yemeği</string>
+	<string name="lutfen">YEMEK LİSTESİ GÜNCEL DEĞİL </string>
+	<string name="title">Hacettepe Üniversitesi Yemekhane Uygulaması</string>
+	<string name="afiyet">AFİYET OLSUN</string>
+	
+
+	
+	<string name="gununyemegi">Günün Yemeği</string>
+	
+	<string name="blist">Aylık Yemek Listesi</string>
+	
+	<string name="bbugun">Günün Yemeği</string>
+	
+	<string name="appabout">paran yoksa yemekhaneye gidecen değil mi ? git tabi amk , bi lira yemek\n
+	    işte bu uygulama oraya gitmeden önce ne yieceksin onu gösteriyor sana, güncel değilse arada yemek listesini güncelle  </string>
+	<!-- Uyarılar -->
+	<string name="nonet">İnternet Bağlantısı Yok, internetini aç ya da git bi wifiye bağlan amk. açıksa olmuyorsa senin hat çok boktan</string>
+	<string name="updating"> az bekle güncelleniyor...</string>
+	<string name="updatealert">güncelle şu yemek listesini</string>
+	
+	
+</resources>
